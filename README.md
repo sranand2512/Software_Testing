@@ -1,1 +1,1 @@
-# Software_Testing_internship
+# Software_Testing
